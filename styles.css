@@ -1,0 +1,164 @@
+img{
+    height: 200px;
+    
+}
+
+
+.main{
+    height: 15rem;
+    width: 50rem;
+    margin: auto;
+    
+}
+.header{
+    height: 2rem;
+    background: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    padding-bottom: 0;
+}
+.about{background: #1F2937;
+    color: white;
+    display: flex;
+}
+    
+    
+    
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 20rem;
+    gap: 1rem;
+    padding: 4rem;
+    padding-left: 12rem;
+} 
+.info{
+    
+    padding-bottom: 4rem;
+}
+.head{
+    text-align: center;
+    font-weight: 800;
+    font-size: 36px;
+    color: #1F2937;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+.contain{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 9rem;
+    flex-wrap: wrap;
+    padding: 1rem;
+}
+.text{
+    width: 200px;
+    color: hsla(205, 12%, 39%, 0.762);
+}
+.img{
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+.review{
+   display: flex;
+   justify-content: center;
+   padding: 5rem;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #454e5b;
+    font-weight: lighter
+    
+}
+.quote{
+    width: 800px;
+    align-items: center;
+}
+.signup{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue{
+    padding: 3rem;
+    background-color: #3882F6;
+    color: white;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    width: 1000px;
+    border-radius: 0.5rem;
+    display: flex;
+    gap: 20rem;
+}
+.call{
+    font-weight: 1000;
+    margin-bottom: 1rem;
+}
+.sign-up{
+    border: solid white 2px;
+    
+    
+}
+.footer{
+    height: 2rem;
+    background: #1F2937;
+    color: white;
+    
+    text-align: center;
+    padding: 1rem;
+    padding-bottom: 0;
+}
+
+
+    
+
+    
+    
+
+
+.logo{
+    margin-left: 40px;
+    font-size: 24px;
+}
+ul{display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+    margin-right: 100px;
+    font-size: 18px;
+
+}
+a {
+    color: whitesmoke;
+    text-decoration: none;
+  }
+
+    body{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+.title{
+    font-size: 35px; font-weight: 900; color: #F9FAF8;
+}  
+button{
+    background-color: #3882F6;
+    color: white;
+    border: 0;
+    border-radius: 0.3rem;
+    padding:1rem 4rem; 
+    font-size: 1rem;
+    font-weight: 700;
+    
+}  
+        
+    
